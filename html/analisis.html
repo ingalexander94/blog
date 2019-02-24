@@ -1,0 +1,24 @@
+<h1>Análisis y Diseño de Sistemas</h1>
+
+<div ng-if="cargando" class="progress">
+  <div class="indeterminate"></div>
+</div>
+
+  <div class="row">
+    <div  ng-repeat="taller in talleres" class="col s12 m6">
+      <div class="card">
+        <div class="card-image waves-effect waves-block waves-light">
+          <img class="activator" src="../img/{{taller.archivo}}.jpg">
+        </div>
+        <div class="card-content">
+          <span class="card-title activator grey-text text-darken-4">{{taller.nombre}}<i class="material-icons right">more_vert</i></span>
+          <p><a href="{{taller.link}}" target="_blank">{{taller.fecha}} <i class="material-icons">file_download</i></a></p>
+        </div>
+        <div class="card-reveal">
+          <span class="card-title grey-text text-darken-4">{{taller.titulo | uppercase}}<i class="material-icons right">close</i></span>
+          <p>{{taller.descripcion}}</p>
+          <a href="{{taller.link}}" target="_blank" class="btn-floating btn-large waves-effect waves-light red"><i class="material-icons">file_download</i></a>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,33 @@
+[{
+    "nombre":"Taller 1",
+    "link":"www.google.com",
+    "archivo":"word",
+    "fecha" : "20 Febrero 2019",
+    "titulo" : "Diagnostico",
+    "descripcion":"REALIZAR un diagnóstico de sus conceptos en BD y en Sistemas de Información."
+},
+{
+    "nombre":"Taller 2",
+    "link":"https://drive.google.com/file/d/1ctcIFyIrzHVz0Dygqk9C2gAGPEdWUFgc/view?usp=sharing",
+    "archivo":"word",
+    "fecha" : "23 Febrero 2019",
+    "titulo" : "Ficha Bibliografica",
+    "descripcion":"La importancia que tienen las referencias Bibliográfica y la utilización de los libros en el curso de Análisis y Desarrollo de Sistemas."
+},{
+    "nombre":"Taller 3",
+    "link":"www.google.com",
+    "archivo":"word",
+    "fecha" : "23 Febrero 2019",
+    "titulo" : "Los Sistemas de Información (SI)",
+    "descripcion":"Analizar y discutir al interior del grupo la importancia que  tienen los Sistemas de Información en la Organzaciones."
+},
+{
+    "nombre":"Taller 4",
+    "link":"www.google.com",
+    "archivo":"word",
+    "fecha" : "25 Febrero 2019",
+    "titulo" : "MODELO CICLO DE VIDA DEL SOFTWARE",
+    "descripcion":"Conocer los diferentes ciclos de vida para el desarrollo de software."
+
+}
+]

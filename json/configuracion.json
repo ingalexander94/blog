@@ -1,0 +1,19 @@
+{
+    "autor" : "Alexander Peñaloza",
+    "correo" : "luisalexanderpr@gmail.com",
+    "anio"   : 2019,
+    "informacion" : "Estudiante de Ingenieria de Sistemas, con conocimientos basicos en tecnologias relacionadas al desarrollo web.",
+    "tecnologias" : [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "JQUERY",
+        "BOOTSTRAP",
+        "MATERIALIZE",
+        "PHP",
+        "NODEJS",
+        "ANGULAR",
+        "MYSQL"
+    ],
+    "ubicacion" : "Cúcuta, UFPS"
+}
